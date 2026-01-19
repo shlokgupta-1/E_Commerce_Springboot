@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: e_commerce
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: ecommerce_db
